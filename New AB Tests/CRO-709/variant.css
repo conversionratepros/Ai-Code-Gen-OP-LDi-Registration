@@ -1,0 +1,327 @@
+html body.cro-LDI-233 .cro-t-54-progress-tracker-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+html body.cro-LDI-233 .cro-t-54-step {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    flex: 0;
+}
+
+html body.cro-LDI-233 .cro-t-54-step .cro-t-54-circle {
+    width: 63px;
+    height: 63px;
+    border: 5px solid #2EC090;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: #2EC090;
+    font-size: 30px;
+}
+
+html body.cro-LDI-233 .cro-t-54-step.completed .cro-t-54-circle {
+    background-color: #2EC090;
+    color: white;
+}
+
+html body.cro-LDI-233 .cro-t-54-step p {
+    margin-top: 8px;
+    font-size: 14px;
+    text-align: center;
+}
+
+html body.cro-LDI-233 .cro-t-54-line {
+    height: 8px;
+    background-color: #2EC090;
+    flex: 1;
+    margin: 0;
+}
+
+html body.cro-LDI-233 .cro-t-54-line.incomplete {
+    background-color: #ccc;
+}
+
+html body.cro-LDI-233 div#membership_countdown_container {
+    position: relative;
+    top: 0;
+}
+
+html body.cro-LDI-233.cro-t-54-step-3 div#membership_countdown_container {
+    margin-bottom: 0;
+}
+
+html body.cro-LDI-233.cro-t-54-step-3 #content .bb-elementor-content>div>section:not(.cro-t-54-progress-tracker, .cro-t-54-timerSection, .cro-t-54-topHeading, .cro-t-54-whatsInclude) {
+    /* margin-bottom: 150px; */
+}
+
+html body.cro-LDI-233 #membership_countdown_container span {
+    display: block;
+}
+
+html body.cro-LDI-233 .cro-t-54-timerText {
+    display: contents;
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+html body.cro-LDI-233 div#membership_countdown_container {
+    background-color: #F2F2F2 !important;
+    padding-top: 0px !important;
+    padding-bottom: 36px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    margin-bottom: 50px;
+    color: #000;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px !important;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal !important;
+}
+
+html body.cro-LDI-233 div#membership_countdown_container>span {
+    color: #2EC090;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    display: none;
+}
+
+html body.cro-LDI-233 div#membership_countdown_container>span strong {
+    color: #2EC090;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+html body.cro-LDI-233 div#content {
+    margin-top: 96px !important;
+    padding-top: 0;
+}
+
+
+html body.cro-LDI-233 .cro-t-54-progress-tracker .cro-t-54-progress-tracker-wrapper {
+    max-width: 1296px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+html body.cro-LDI-233 .cro-t-54-progress-tracker {
+    background-color: #F2F2F2;
+    padding: 50px 20px 26px;
+    /* padding-top: 50px; */
+}
+
+html body.cro-LDI-233 .cro-t-54-line {
+    max-width: 262px;
+}
+
+html body.cro-LDI-233 .cro-t-54-sortline {
+    height: 8px;
+    background-color: #2EC090;
+    flex: 1;
+    margin: 0 10px;
+    max-width: 36px;
+    margin: 0px;
+}
+
+html body.cro-LDI-233 #content .bb-elementor-content>div {
+    display: flex;
+    flex-direction: column;
+}
+
+html body.cro-LDI-233 section.cro-t-54-progress-tracker {
+    order: 1;
+}
+
+html body.cro-LDI-233 section.cro-t-54-topHeading {
+    order: 2;
+    padding-bottom: 23px !important;
+}
+
+html body.cro-LDI-233 section.cro-t-54-timerSection {
+    order: 3;
+}
+
+html body.cro-LDI-233 #content .bb-elementor-content>div>section:not(.cro-t-54-progress-tracker, .cro-t-54-timerSection, .cro-t-54-topHeading, .cro-t-54-whatsInclude) {
+    order: 4;
+    margin-bottom: 4px;
+}
+
+html body.cro-LDI-233 #content .bb-elementor-content>div>section.cro-t-54-whatsInclude {
+    order: 5;
+    padding-top: 55px;
+}
+
+html body.cro-LDI-233 .cro-t-54-topHeading .elementor-widget-wrap.elementor-element-populated>div:nth-child(1) h1:after {
+    font-family: "Poppins", Sans-serif;
+    color: #000;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+}
+
+html body.cro-t-54-step-1 .cro-t-54-topHeading .elementor-widget-wrap.elementor-element-populated>div:nth-child(1) h1:after {
+    content: 'Registration';
+}
+
+html body.cro-t-54-step-2 .cro-t-54-topHeading .elementor-widget-wrap.elementor-element-populated>div:nth-child(1) h1:after {
+    content: 'Plan Selection';
+}
+
+html body.cro-t-54-step-3 .cro-t-54-topHeading .elementor-widget-wrap.elementor-element-populated>div:nth-child(1) h1:after {
+    content: 'Payment';
+}
+
+html body.cro-LDI-233 .cro-t-54-topHeading .elementor-widget-wrap.elementor-element-populated>div:nth-child(1) h1 {
+    font-size: 0;
+    line-height: 0;
+    display: flex;
+    justify-content: center;
+}
+
+html body.cro-LDI-233 .cro-t-54-topHeading .elementor-widget-wrap.elementor-element-populated>div:nth-child(2) h1 {
+    display: flex;
+    justify-content: center;
+}
+
+html body.cro-LDI-233 .cro-t-54-topHeading .elementor-widget-wrap.elementor-element-populated>div:nth-child(2) h1 {
+    color: #000;
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    display: none;
+}
+
+html body.cro-LDI-233 .cro-t-54-topHeading .elementor-widget-wrap.elementor-element-populated>div:nth-child(2) .elementor-widget-container {
+    margin: 0;
+}
+
+html body.cro-LDI-233 .cro-t-54-topHeading {
+    padding-top: 0 !important;
+}
+
+html body.cro-LDI-233.cro-t-54-step-1 .cro-t-54-line,
+html body.cro-LDI-233.cro-t-54-step-1 #cro-t-54-step-3+.cro-t-54-sortline {
+    background-color: #D9D9D9;
+}
+
+html body.cro-LDI-233.cro-t-54-step-1 #cro-t-54-step-2 .cro-t-54-circle,
+html body.cro-LDI-233.cro-t-54-step-1 #cro-t-54-step-3 .cro-t-54-circle,
+html body.cro-LDI-233.cro-t-54-step-2 #cro-t-54-step-2+.cro-t-54-line,
+html body.cro-LDI-233.cro-t-54-step-2 #cro-t-54-step-3 .cro-t-54-circle,
+html body.cro-LDI-233.cro-t-54-step-2 #cro-t-54-step-3+.cro-t-54-sortline,
+html body.cro-LDI-233.cro-t-54-step-3 #cro-t-54-step-3+.cro-t-54-sortline {
+    color: #fff;
+    background-color: #D9D9D9;
+    border-color: #D9D9D9;
+}
+
+html body.cro-LDI-233 .cro-t-54-sortline.cro-left {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+html body.cro-LDI-233 .cro-t-54-sortline.cro-right {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+html body.cro-LDI-233.cro-t-54-step-2 #cro-t-54-step-1 .cro-t-54-circle,
+html body.cro-LDI-233.cro-t-54-step-3 #cro-t-54-step-1 .cro-t-54-circle,
+html body.cro-LDI-233.cro-t-54-step-3 #cro-t-54-step-2 .cro-t-54-circle {
+    background-image: url('https://crp-clients-images.s3.af-south-1.amazonaws.com/London_Dental_Institute/54.55.56/54.55.56_CHECK.svg');
+    background-repeat: no-repeat;
+    font-size: 0;
+    background-position: center;
+    background-size: 38px;
+    font-size: 0;
+}
+
+html body.cro-LDI-233 .cro-t-54-timerText b {
+    font-weight: 700;
+}
+
+html body.cro-LDI-233 div#membership_countdown_container {
+    font-weight: 700;
+}
+
+html body.cro-LDI-233 .cro-t-54-timerText {
+    font-weight: 400;
+}
+
+html body.cro-LDI-233.cro-t-54-step-3 .cro-t-54-topHeading .elementor-widget-wrap.elementor-element-populated>div:nth-child(1) h1 {
+    padding-bottom: 23px;
+}
+
+html body.cro-LDI-233.cro-t-54-step-3 .cro-t-54-timerText {
+    text-align: center;
+    display: block !important;
+}
+
+html body.cro-LDI-233.cro-t-54-step-3 section.cro-t-54-topHeading {
+    padding-bottom: 36px !important;
+}
+
+@media (max-width: 767px) {
+    html body.cro-LDI-233 .cro-t-54-step .cro-t-54-circle {
+        width: 50px;
+        height: 50px;
+        font-size: 20px;
+    }
+
+    html body.cro-LDI-233 .cro-t-54-sortline {
+        max-width: 20px;
+    }
+
+    html body.cro-LDI-233 .cro-t-54-progress-tracker {
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 41px;
+        padding-bottom: 25.5px;
+    }
+
+    html body.cro-LDI-233.cro-t-54-step-2 #cro-t-54-step-1 .cro-t-54-circle {
+        background-size: 30px;
+    }
+
+    html body.cro-LDI-233 #content .bb-elementor-content>div>section:not(.cro-t-54-progress-tracker, .cro-t-54-timerSection, .cro-t-54-topHeading, .cro-t-54-whatsInclude) {
+        margin-bottom: 12px;
+    }
+
+    html body.cro-LDI-233 .cro-t-54-timerText b {
+        font-weight: 700;
+    }
+
+    html body.cro-LDI-233 div#membership_countdown_container {
+        margin-bottom: 40px;
+        font-weight: 700;
+    }
+
+    html body.cro-LDI-233.cro-t-54-step-3 #content .bb-elementor-content>div>section:not(.cro-t-54-progress-tracker, .cro-t-54-timerSection, .cro-t-54-topHeading, .cro-t-54-whatsInclude) {
+        /* margin-bottom: 50px; */
+    }
+
+    html body.cro-LDI-233 .cro-t-54-timerText {
+        font-size: 18px;
+        font-weight: normal;
+    }
+}
